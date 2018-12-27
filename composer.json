@@ -21,7 +21,7 @@
     "license" : "MIT",
     "require" : {
         "php" : ">=7.0",
-        "symfony/framework-bundle" : "~3.0",
+        "symfony/framework-bundle" : "~3.0|~4.0",
         "payum/payum-bundle": "^2.3.0",
         "ekyna/payum-monetico": "1.5.x-dev"
     },
